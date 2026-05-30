@@ -83,13 +83,7 @@ NetGuard/
 ├── reports/
 │   ├── report.json
 │   └── open_ports.json
-│
-├── dashboard/
-│   ├── app.py
-│   ├── templates/
-│   └── static/
-│
-└── tests/
+
 ```
 
 ---
@@ -169,18 +163,5 @@ python main.py
 * Limited to predefined monitoring rules.
 * Does not currently implement advanced behavioral analysis.
 
----
-
-## Learning Outcomes
-
-This project demonstrates:
-
-* Cybersecurity fundamentals
-* Network monitoring concepts
-* Python application development
-* JSON data management
-* Logging and reporting
-* Software architecture design
-* Git and GitHub workflow
 
 
